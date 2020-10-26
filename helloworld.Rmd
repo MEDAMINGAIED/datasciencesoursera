@@ -1,0 +1,8 @@
+---
+title: "rmarkdown"
+author: "GAIED MED AMIN"
+date: "26/10/2020"
+output: pdf_document
+---
+
+## This is a markdown file
